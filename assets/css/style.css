@@ -497,6 +497,28 @@ section {
   background-color: #0563bb;
 }
 
+#skills {
+  padding: 15px 15px;
+  text-align: center; }
+#skills ul {
+display: block;
+margin: 0 auto;
+padding: 0;
+max-width: 1000px; }
+#skills li {
+display: inline-block;
+margin: 5px;
+padding: 5px 10px;
+color: #374054;
+background: #FFFFFF;
+list-style: none;
+cursor: default;
+font-size: 1.2em; }
+#skills img{
+height: 120%;
+width: 120%;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
