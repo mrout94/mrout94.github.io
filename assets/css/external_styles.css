@@ -1,0 +1,39 @@
+/*
+    -------------------------------
+    ----- 8. Project Styles -----
+    -------------------------------
+*/
+#projects {
+  padding: 50px 15px;
+  border-bottom: 1px solid #dcd9d9;
+  text-align: center; }
+  #projects h2 {
+    color: #374054;
+    margin-bottom: 50px; }
+
+.project {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto 30px auto;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 4px; }
+
+.project-image {
+  float: left; }
+
+.project-info {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 300px;
+  padding: 15px; }
+
+.no-image .project-info {
+  position: relative;
+  margin: 0;
+  padding: 30px 15px;
+  transform: none; }
+
+#more-projects {
+  display: none; }
