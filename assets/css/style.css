@@ -1,10 +1,3 @@
-/**
-* Template Name: MyResume - v4.1.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -515,8 +508,7 @@ list-style: none;
 cursor: default;
 font-size: 1.2em; }
 #skills img{
-height: 120%;
-width: 120%;
+height: 80px;
 }
 
 /*--------------------------------------------------------------
